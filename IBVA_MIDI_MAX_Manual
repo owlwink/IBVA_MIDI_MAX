@@ -1,0 +1,16 @@
+IBVA_MIDI_MAX Manual (PC & Mac Compatible)
+
+
+1. Once you have live brainwave being received into IBVA navigate to the BrainNDJVJ tab.
+
+2. Click on Brain rhythm MIDI setup.
+
+3. Activate the ON MIDI out check box.
+
+4. Toggle on Active Brain Data Input.
+
+5. Select to Max 1 in the MIDI Out port.
+
+6. In the IBVA_MIDI_MAX patch double click on the midiin a object. 
+
+7. Select to Max 1 and MIDI data will start appearing for each of the channels. 
